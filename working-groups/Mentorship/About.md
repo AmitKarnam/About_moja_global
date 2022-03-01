@@ -10,8 +10,8 @@ A working group is a group of people working together to achieve set goals. The 
 
 <a href="#incubating"><img src="https://img.shields.io/static/v1?label=Status &message=Active &color=green" /></a>
 
--Tracking grant applications and working group progress
--On-boarding new users and connecting with different working groups 
--Prioritizing project pipeline
--Promoting project applications and outcomes
--Stipend approval
+- Tracking grant applications and working group progress
+- On-boarding new users and connecting with different working groups 
+- Prioritizing project pipeline
+- Promoting project applications and outcomes
+- Stipend approval
